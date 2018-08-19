@@ -1,0 +1,210 @@
+html,body
+{
+    
+height: 100%;
+
+}
+
+
+
+
+
+
+.bg{
+    height: 100%;
+    width: 100.63%; /*This is Wiping your Butt on the KEyboard,but it works*/
+    margin-top: -4px;
+    margin-left: -4px;
+    padding-bottom: 160px;
+    
+}
+
+.navbar{
+    
+    position: absolute;
+    top:5px;
+}
+
+.listm{
+    
+position: absolute;
+margin-left: 1600%;  /*This is Wiping your Butt on the KEyboard,but it works (dunno how LOL)*/
+top:10px;    
+}
+
+.mdes{
+    
+    text-align: center;
+    position: absolute;
+    top: 150px;  
+   
+}
+.fh{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 82px;
+    color: white;
+}.fh2{
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    color: white;
+}
+.button{
+        background-color: indianred; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+}
+.button:hover {
+    background-color: white; /* Green */
+    color: indianred;
+    border: indianred solid 2px;
+    cursor:pointer;
+}
+.skills{
+    
+    display: inline-grid;
+    width:30%;
+    margin-left:30px;
+    text-align: center
+}
+.simg{
+    
+    border: rgba(0, 0, 0, 0.2) solid 2px;
+    border-radius: 100%;
+    padding: 20px;
+    margin-bottom: 40px;
+    
+}
+
+.simg:hover{
+    
+background-color: indianred;
+border-color: indianred;
+
+    
+    
+}
+
+p{
+    word-break: break-all;
+    word-wrap: break-word;
+    font-family: 'Lora', serif;
+    color: grey;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+}
+
+.msection{
+    text-align: center;
+    background-color: #fbfbfb;
+    
+}
+.mimg{
+    width: 25%;
+    height: 25%;
+    display: inline-grid;
+        
+    
+}
+.map{
+    text-align: center;
+    
+    
+}
+.cbutton{
+    background-color: #fa5c58; 
+    border: none;
+    color: white;
+    padding: 15px 64px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    display: block;
+    width:69%;
+    
+}
+.cbutton:hover {
+    background-color: white; /* Green */
+    color: indianred;
+    border: indianred solid 2px;
+    cursor:pointer;
+}
+.contact{
+    margin-left: 70px;
+}
+.cinfo{
+    position: absolute;
+    right:140px;
+    top:2620px;
+    
+}
+.footer{
+    background-color: #333333;
+     border:#333333 solid 2px;
+    height: 30%;
+    width:101%;
+    margin-left:-9px;
+    position: sticky;
+}
+
+a{
+    text-decoration: none;
+    
+}
+.icons{
+    padding: 75px 10px 5px 10px;
+    
+}
+.iconswrap{
+    margin-right:230px;
+    float:right;
+}
+.fpar{
+    
+    display: inline;
+    margin-left:8%;
+    position: absolute;
+    top: 60px;
+    font-size: 16px;
+    color:white;
+}
+
+input[type=text]
+{
+padding-left:25px;
+}
+
+
+
+/*Placeholder Size change*/
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+   font-family: 'Lora', serif;
+   font-size: 12pt; 
+  
+}
+::-moz-placeholder { /* Firefox 19+ */
+   font-family: 'Lora', serif;
+   font-size: 12pt; 
+    
+    
+}
+:-ms-input-placeholder { /* IE 10+ */
+   font-family: 'Lora', serif;
+   font-size: 12pt; 
+    
+}
+:-moz-placeholder { /* Firefox 18- */
+   font-family: 'Lora', serif;
+   font-size: 12pt;
+    
+}
